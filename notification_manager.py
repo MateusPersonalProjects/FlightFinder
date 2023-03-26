@@ -1,7 +1,7 @@
 from twilio.rest import Client
 # -------------------------------------- TWILIO KEYS ------------------------------------------------- #
-TWILIO_SID = 'ACa6f6baa41a98225d6a0c40d2a64c4803'
-TWILIO_AUTH = 'd9354d16564de42da28667d2700f466c'
+TWILIO_SID = 'YOUR TWILIO SID'
+TWILIO_AUTH = 'YOUR TWILIO AUTH'
 
 
 class NotificationManager:

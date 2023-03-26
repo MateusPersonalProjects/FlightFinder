@@ -8,8 +8,8 @@ import datetime as dt
 from dateutil.relativedelta import relativedelta
 
 # -------------------------------------- TWILIO ------------------------------------------------- #
-TWILIO_NUM = '+16067157741'
-TWILIO_TO_SEND = '+5514996615410'
+TWILIO_NUM = 'YOUR TWILIO NUM'
+TWILIO_TO_SEND = 'NUMBER TO SEND'
 
 
 # -------------------------- Function that return the city IATA code --------------------------------------------- #

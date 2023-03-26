@@ -1,7 +1,7 @@
 import requests
 
 # --------------------------------------- KIWI KEYS --------------------------------------------------- #
-KIWI_API_KEY = "Adixhx9FQrK1LJHWaYiyrVdzz_rMyUKu"
+KIWI_API_KEY = "YOUR KIWI KEYS"
 KIWI_END_POINT = "https://api.tequila.kiwi.com/v2/search?"
 KIWI_LOCATION_END_POINT = "https://api.tequila.kiwi.com/locations/query?"
 
